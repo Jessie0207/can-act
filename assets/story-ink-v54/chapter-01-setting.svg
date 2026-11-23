@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 547">
+  <defs>
+    <pattern id="water" width="5" height="5" patternUnits="userSpaceOnUse" patternTransform="rotate(-13)"><circle cx="1" cy="1" r=".85" fill="#575757"/></pattern>
+  </defs>
+  <!-- Follow the bend of the river down to the foot of the bridge. -->
+  <path fill="#e8e8e6" d="M0 357c88-23 160-22 269-39 85-14 123-18 158-29-13 9-52 17-85 24 105-11 151-17 185-24-43 18-109 29-138 38 45 0 83-5 115-8-34 10-88 16-134 29-43 12-65 36-118 45C171 411 88 409 0 447z"/>
+  <path fill="url(#water)" d="M0 390c75-19 151-20 206-29-24 9-58 12-92 20 68-6 134-25 179-28-37 13-84 19-112 31-53 16-98 32-181 39z"/>
+  <g fill="none" stroke="#666" stroke-width="1.2" stroke-linecap="round">
+    <path d="M107 354c47-7 101-9 143-19m-100 24c36-3 58-8 81-11m14-11 23-4m19-8c25-9 51-11 72-13m-64 14 27-5m18-6 8-1"/>
+    <path d="M357 318c-38 12-63 21-105 25m57-10 31-8m22-3c22-9 40-9 61-13m-52 19c20-5 37-7 54-13m-31 15 20-4m34-11 17-2"/>
+  </g>
+  <!-- The near bank cuts back under the broken planks. -->
+  <path fill="url(#water)" d="M360 488c25-12 39-31 65-39 23-7 42-9 75-16 39-9 50-4 73-13 32-13 82-9 119-20l63 34-58 28-105-2-70 17-108 19z"/>
+  <g fill="#fff" stroke="#332f2e" stroke-linejoin="round">
+    <path stroke-width="2.5" d="m461 451 14-13 12-3 11-9 15 3 9 11 17 8-12 7-34 5-32-1z"/>
+    <path stroke-width="1.6" d="m536 442 12-10 11-1 6-6 9 4 5 8-10 5-18 1z"/>
+    <path stroke-width="1.4" d="m413 465 9-6 13-1 9 4-13 5z"/>
+  </g>
+  <path fill="#454545" d="m474 442 13-4 11-9 1 9-9 6-6 8 11 2 28-9 13 3-10 6-31 5-32-2 8-4zm73-8 10-2-7 7 15-2 13-1-7 6h-17l-16 1z"/>
+  <g fill="none" stroke="#514f4c" stroke-linecap="round">
+    <path stroke-width="1.25" d="m498 431 7 6 4 2m-5-9 8 6m-29 10-5 3m-24 14c-18 2-36 9-33 11 6 3 29 0 42-3m-16-2 21-3m29-3c21 1 42-4 52-9m9-1 26-5m3-2c12 0 27-1 42-5"/>
+    <path stroke-width="2.1" d="M430 480c25-1 54-7 69-8m19-4 21-3m16-7 11-1m8-8c13 1 33-3 49-6m18-8 22-1"/>
+  </g>
+  <g fill="#444">
+    <path d="M645 425c3-21 0-33-11-42 13 5 19 20 18 31 2-19 11-35 25-44-8 9-16 26-17 40 7-14 19-23 28-25-11 10-20 21-25 34z"/>
+    <path d="M685 419c2-11 7-18 13-22-3 6-5 12-7 19l17-9-9 9z"/>
+  </g>
+</svg>

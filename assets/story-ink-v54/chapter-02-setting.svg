@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 547">
+  <defs><pattern id="floorgrain" width="4" height="4" patternUnits="userSpaceOnUse" patternTransform="rotate(24)"><circle cx="1" cy="1" r=".72" fill="#777"/></pattern></defs>
+  <!-- On the boards outside the open cage, the floor lines recede into the bow. -->
+  <path fill="#e6e5e2" d="M0 451c44-3 114-8 168-10l124 2-46 11-116 11-130 21z"/>
+  <path fill="url(#floorgrain)" d="m0 468 106-13 68-7 33-1-49 12-78 14-80 14z"/>
+  <g fill="none" stroke="#888580" stroke-linecap="round">
+    <path stroke-width="1.35" d="m0 498 130-53m61 102 121-98m183 98 6-34m197 34-33-25m100-69 55 21M0 537c40-4 59-5 94-5m181-8 43-2m356-18 45 1m25 1 52-1"/>
+    <path stroke-width=".85" d="m13 504 30-11m7-5 21-8m135 52 21-18m14-10 12-11m549-17 18 4M399 515c23-4 41-5 61-4m-35 2 17-1"/>
+    <path stroke-width="1.3" d="M623 535c18-1 34 2 51 1 12-1 17-2 25-2m-56 5 13 0m-599-3 28-2m15-1 10-1"/>
+  </g>
+  <path d="M7 475c30-5 62-8 82-9l-33 9-45 5zm293 54c16-5 53-10 79-10 11 0 20 1 26 3l-26 5-52 5-27 0z" fill="#b3b2af"/>
+  <!-- The face of the freed door's little brass key, lying flat on the floor. -->
+  <g transform="translate(343 519) rotate(-13)">
+    <path d="M-19 1c-10-3-11-10-1-16 8-5 22-6 31-2 6 3 7 7 4 10l29 1 5-3 7 1v7l-7 2-3-3-4 2-3-3-24-1c-7 6-22 9-34 5z" fill="#272624"/>
+    <path d="M-19-2c-8-4-5-9 3-12 7-3 17-4 23-1 7 4 3 8-2 11-8 4-17 5-24 2z" fill="#f8f8f6" stroke="#373737" stroke-width="1.6"/>
+    <path d="M-13-5c-4-2-2-5 2-7 6-2 11-2 15 0 3 2 1 4-3 6-5 2-12 3-14 1z" fill="#434343"/>
+    <path d="M-11-7c3-3 9-4 13-3-1 3-7 5-12 5z" fill="#d4d1cc"/>
+    <path d="m13-4 30 1 6-3 5 .5v4l-5 2-3-3-3 1-3-2-27-1z" fill="#efefed"/>
+    <path d="m20-4 .2 4m2-4 .3 4m24-3 1 1" fill="none" stroke="#363636" stroke-width="1.2"/>
+  </g>
+  <g fill="#555"><ellipse cx="95" cy="495" rx="3.1" ry="1.25"/><ellipse cx="764" cy="514" rx="4" ry="1.45"/><ellipse cx="235" cy="509" rx="2.5" ry="1"/></g>
+  <!-- A hooded footlight at the lip of the stage catches the bow. -->
+  <path fill="#868581" d="M740 545c16-4 35-8 50-9l30-1v12h-81z"/>
+  <g stroke="#262525" stroke-linejoin="round">
+    <path fill="#faf9f5" stroke-width="2.3" d="M753 548c10-16 16-23 26-29 15-10 30-11 44-4v34z"/>
+    <path fill="#323232" stroke-width="1.5" d="M765 546c7-12 21-20 34-21 13 0 18 5 23 12v11z"/>
+    <path fill="url(#floorgrain)" stroke-width="1.1" d="M755 546c10-15 19-23 29-28 13-6 26-6 36-3l-2 3c-10-3-22-1-34 6-8 5-16 12-24 22z"/>
+    <path fill="#fbfaf7" stroke-width="1.9" d="M781 548c-2-6 1-13 8-17 10-5 22-1 24 6 2 4 0 8-2 11z"/>
+  </g>
+  <g fill="none" stroke="#77736d" stroke-linecap="round"><path d="M784 540c2-5 7-8 12-8m-13 11 2-3m9-22 12-2"/><path stroke-width="1.6" d="M790 547c0-4 3-8 6-8l3 4 4-2 1 6"/></g>
+</svg>

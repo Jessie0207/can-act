@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 547">
+  <defs><pattern id="rough" width="4.4" height="4.4" patternUnits="userSpaceOnUse" patternTransform="rotate(-17)"><circle cx="1" cy="1" r=".8" fill="#4a4743"/></pattern></defs>
+  <!-- Fresh grain where the singer tore the false scenery. -->
+  <path fill="url(#rough)" d="m406 283 12-17 21-25-8 19-17 26-8 15zm2 106 7 13 16 15-10-4-8-8zM91 8c13 7 26 9 36 21l3 7-7-4-9-12zm99 45 15 13 12 7-6 1-13-7z"/>
+  <g fill="none" stroke="#5c5650" stroke-linecap="round">
+    <path stroke-width="1.5" d="m5 21 32 13m-14-10 43 15m-20-4 22 9m-35 85 20-9m25-13 30-18m-18 13 15-7m118 19 6 12m8-3 9 11m15 13 12 6m-6-5 7 3"/>
+    <path stroke-width="1.2" d="m36 32 7 3m9 3 12 5m4 76 9-6m179 36 8 4m-236 37-3 39m8-20-3 40m-8 39-3 28m6 59-2 24"/>
+  </g>
+  <path fill="#f9f8f5" stroke="#3c3834" stroke-width="1.35" d="m432 249 8-11-1 7-6 9zM421 414l10 4 5 8-7-4z"/>
+  <path fill="url(#rough)" d="M467 422c11 12 24 18 42 20 15 2 30 1 44-1-12 6-30 9-45 7-19-3-33-12-41-26zm90-56c11 3 22 4 33 2 10-1 18-5 23-9-5 7-13 11-24 14l-22-3zM83 415c12 11 27 15 40 15 16-1 28-4 38-9-7 7-18 12-33 14-17 3-36-4-45-20z"/>
+  <path fill="none" stroke="#404040" stroke-linecap="round" stroke-width="1.5" d="M48 106c-1 5 4 7 7 4m-11-9 4-2m158-24c4 1 7 4 8 7m-12-8 5 2"/>
+  <path fill="#aaa6a0" d="m655 460 108-22 16 1 37 30-11 7-101 26z"/>
+  <!-- A loose orchestral part has fallen onto the boards; the singer keeps going. -->
+  <g transform="matrix(.98,-.23,.50,.63,650,455)">
+    <path d="M1 12c10-5 13-11 13-18l84 1c3 5 4 8 9 10l1 62-92 6z" fill="#f2f0e9" stroke="#2e2b27" stroke-width="2.2" stroke-linejoin="round"/>
+    <path d="m14-6 84 1 3 6-86 2-5 8-8 1c8-6 10-12 12-18z" fill="#c6c4be" stroke="#423d38" stroke-width="1.1"/>
+    <g fill="none" stroke="#4b4640" stroke-width=".9">
+      <path d="m19 20 77-2m-77 5 77-2m-77 5 77-2m-77 5 77-2m-77 5 77-2m-77 18 77-2m-77 5 77-2m-77 5 77-2m-77 5 77-2m-77 5 77-2"/>
+    </g>
+    <g fill="#292723" stroke="#292723" stroke-width="1.3">
+      <ellipse cx="33" cy="27" rx="3" ry="1.8" transform="rotate(-20 33 27)"/><ellipse cx="47" cy="23" rx="3" ry="1.8" transform="rotate(-20 47 23)"/><ellipse cx="63" cy="25" rx="3" ry="1.8" transform="rotate(-20 63 25)"/><ellipse cx="77" cy="25" rx="3" ry="1.8" transform="rotate(-20 77 25)"/>
+      <path fill="none" d="m35.5 26.5 0-13 14-4v13m16 2V12m14 12V12m9 4v12m2-12v12"/>
+      <ellipse cx="34" cy="50" rx="3" ry="1.7" transform="rotate(-20 34 50)"/><ellipse cx="47" cy="54" rx="3" ry="1.7" transform="rotate(-20 47 54)"/><ellipse cx="62" cy="47" rx="3" ry="1.7" transform="rotate(-20 62 47)"/>
+      <path fill="none" d="M36.5 49.5V37m13 16V40m15 6V34m10 15 6-1m8-4v12m2-12v12"/>
+    </g>
+    <g fill="none" stroke="#6e675e" stroke-width="1"><path d="m21 64 52-2m-51 4 15-1m54-56 9 4-4 8"/></g>
+  </g>
+</svg>

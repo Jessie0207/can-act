@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 547">
+  <defs><pattern id="wing" width="4" height="4" patternUnits="userSpaceOnUse" patternTransform="rotate(18)"><circle cx="1" cy="1" r=".7" fill="#797671"/></pattern></defs>
+  <path fill="#e7e5e1" d="M0 424c71-7 137-12 247-7l78 16-145 5c-62 1-133 8-180 15zm593 45c46-5 92-18 133-21l94-1v19l-80 18-76 3z"/>
+  <path fill="url(#wing)" d="m0 432 100-8 81-3-58 7-97 14L0 447zm622 43c32-4 70-12 103-18l72-4-89 21-47 4z"/>
+  <g fill="none" stroke="#817c75" stroke-linecap="round">
+    <path stroke-width="1.4" d="m0 464 59-37m112 120 46-59m135 59 14-40m360 40-39-38m102-53 31 9M0 529c34-2 77-3 113-3m264-1 36-1m235 6 34 2"/>
+    <path d="m12 460 20-11m159 77 18-24m147 35 4-15m342-7 14 15m67-51 15 4m-529 28 28-2"/>
+  </g>
+</svg>

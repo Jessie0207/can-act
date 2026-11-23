@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 547">
+  <defs><pattern id="stipple" width="4.4" height="4.4" patternUnits="userSpaceOnUse" patternTransform="rotate(20)"><circle cx="1" cy="1" r=".74" fill="#5c5a57"/></pattern></defs>
+  <path fill="#eeedea" d="M334 417c52-17 107-32 182-47 56-10 91-16 137-33l167-14v95c-59 2-88 4-152 17-36 7-68 10-116 8-73-4-118 11-180 22z"/>
+  <path fill="url(#stipple)" d="M382 421c37-12 104-25 150-31 41-5 78-12 111-20-10 10-49 20-81 28l80-8c-33 14-77 20-120 22-45 2-89 10-140 23z"/>
+  <g fill="none" stroke="#75736f" stroke-width="1.25" stroke-linecap="round">
+    <path d="M360 450c37-11 69-16 111-18m-73 12 32-5m31-5c23 1 47-3 64-8m-22 8 21-4m111-33c30-7 52-8 66-15m-34 16 35-7m68-5 41-6"/>
+    <path d="M402 471c20-1 43-6 54-11m-21 10 11-1m85-23c20 1 45 0 62-4m-38 9 19-1m60-13 31-2m27-6 32-4"/>
+  </g>
+  <!-- Two shallow stones leave a wake in front of the bridge support. -->
+  <path fill="#efeeeb" stroke="#41403e" stroke-width="2.5" stroke-linejoin="round" d="m500 463 16-6 11-13 17-3 8-6 16 5 9 11 10 4-4 7-27 4-35 2z"/>
+  <path fill="#6e6d68" d="m511 462 15-7 5-10 14-2-10 8-7 8 12 2 13-5 9-1 11 3 8-1-5 5-28 4-28 1z"/>
+  <path fill="#fff" stroke="#4e4c48" stroke-width="1.5" d="m597 455 14-8 10-1 9 4 4 5-14 3h-18z"/>
+  <path fill="#706f6a" d="m606 454 14-6-4 5 13 1-9 3h-16z"/>
+  <g fill="none" stroke="#5d5b57" stroke-linecap="round"><path stroke-width="1.5" d="m551 441 10 5 3 6m-16-10 8 6m-56 16c-17 2-22 5-16 6 13 3 43 2 67-2m-29 8 22-1m20-4c21-1 34-4 43-9m17-2 13-3"/><path d="m492 473 10 1m37-7 8-1m46 2 10-2m37-9 8-1"/></g>
+  <path fill="#e0deda" d="m0 523 140-5 94 3 51-5 75 7 19-7 85-4-49 12-108 8-155-1-152 6z"/>
+  <path fill="none" stroke="#55534f" stroke-width="1.35" stroke-linecap="round" d="m17 536 32-4m34-5 47-1m92 3 46-3m112 4 30-4m19-6 34-3m202-3c20-2 49-4 65-3"/>
+  <!-- The far piling darkens the water; the reflected post breaks where
+       the current curls around the stones and runs toward the near shore. -->
+  <path fill="#d7d5d1" d="m691 481 46-9 51 3-19 5-52 4 30 2-20 3-67 3 29-6-17 1z"/>
+  <path fill="url(#stipple)" d="m680 487 46-7 33-1-32 6 25 0-41 7-33-2-32 2z"/>
+  <g fill="none" stroke="#77746e" stroke-linecap="round"><path stroke-width="1.5" d="M488 481c18-2 31-4 45-3m-35 4 18-2m67-5c18-4 33-5 46-4m24 2 24-3m-22 23 29-2m15 0 21-4"/><path d="m452 487 22-3m95-2 8-2m58-8 10-1m23 26 27-2"/></g>
+  <path fill="#494743" d="M814 537c-4-12-12-19-21-23 11 1 20 6 26 12-2-12-6-20-11-27 8 6 12 12 16 22v17z"/>
+</svg>

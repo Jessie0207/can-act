@@ -1,0 +1,59 @@
+{
+  "source": "AI-generated pose sheet derived from approved no-front-paws character",
+  "poses": [
+    {
+      "name": "idle",
+      "file": "assets/idle.png",
+      "width": 381,
+      "height": 492,
+      "pivotX": 110,
+      "pivotY": 481,
+      "naturalHeight": 478
+    },
+    {
+      "name": "crouch",
+      "file": "assets/crouch.png",
+      "width": 403,
+      "height": 417,
+      "pivotX": 119,
+      "pivotY": 405,
+      "naturalHeight": 402
+    },
+    {
+      "name": "launch",
+      "file": "assets/launch.png",
+      "width": 431,
+      "height": 475,
+      "pivotX": 175,
+      "pivotY": 440,
+      "naturalHeight": 437
+    },
+    {
+      "name": "flight",
+      "file": "assets/flight.png",
+      "width": 522,
+      "height": 457,
+      "pivotX": 206,
+      "pivotY": 423,
+      "naturalHeight": 420
+    },
+    {
+      "name": "land",
+      "file": "assets/land.png",
+      "width": 487,
+      "height": 384,
+      "pivotX": 191,
+      "pivotY": 369,
+      "naturalHeight": 366
+    },
+    {
+      "name": "blink",
+      "file": "assets/blink.png",
+      "width": 382,
+      "height": 477,
+      "pivotX": 112,
+      "pivotY": 464,
+      "naturalHeight": 461
+    }
+  ]
+}
